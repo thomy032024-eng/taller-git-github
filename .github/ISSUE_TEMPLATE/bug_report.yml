@@ -1,0 +1,10 @@
+name: Bug Report
+description: Reportar un fallo en el sistema
+title: '[BUG] '
+labels: ['bug']
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del problema
+      placeholder: Explica qué ocurrió...
